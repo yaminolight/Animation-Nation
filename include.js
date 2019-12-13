@@ -1459,7 +1459,14 @@ let cards = [
 	imageLink: "./Art/Alara Joel/stealth ghost.png",
 	author: "Alara Joel",
 	githubLink: "https://github.com/stealthman22"
-}
+},
+{
+	artName: "Levels",
+	pageLink: "./Art/yaminolight/index.html",
+	imageLink: "./Art/Joy/levels.gif",
+	author: "Luis Gerardo",
+	githubLink: "https://github.com/yaminolight"
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
